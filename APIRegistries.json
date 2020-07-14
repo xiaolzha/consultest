@@ -1,0 +1,14 @@
+{
+  "odata": {
+    "v2": {
+      "User": "user-service"
+    }
+  },
+  "rest": {
+    "time": {
+      "v1": {
+        "TimeEvent": "time-service"
+      }
+    }
+  }
+}
