@@ -1,11 +1,7 @@
 {
-  "rest": {
-    "time": {
-      "attendance": {
-        "v1": {
-          "TimeEvent": "time-service"
-        }
-      }
+  "attendance": {
+    "v1": {
+      "TimeEvent": "time-service"
     }
   }
 }
